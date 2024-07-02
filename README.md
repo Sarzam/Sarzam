@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sarzam/Sarzam/blob/main/github_banner.png)
-<h1>Hi 👋, I'm Misbah Shaikh</h1>
-<h3>A passionate Engineer from Gujarat</h3>
-
+<h1 align = "center">Hi 👋, I'm Misbah Shaikh</h1>
+<h3 align = "center">A passionate Engineer from Gujarat</h3>
+<br>
 - 🌱 I’m currently learning **React.js & GANs**
 
 - 📝 I regularly write articles on [https://www.renesasvnit.com/](https://www.renesasvnit.com/)
