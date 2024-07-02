@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Misbah Shaikh</h1>
-<h3 align="center">A passionate Engineer from Gujarat</h3>
+![logo](https://github.com/Sarzam/Sarzam/blob/main/github_banner.png)
+<h1>Hi 👋, I'm Misbah Shaikh</h1>
+<h3>A passionate Engineer from Gujarat</h3>
 
 - 🌱 I’m currently learning **React.js & GANs**
 
