@@ -6,4 +6,4 @@
 
 - 🌱 I’m passionate about areas that integrate Number Theory and Technology, such as Coding Theory and Machine Learning.
 - ⚡ I am currently enhancing my Full Stack development skills through various projects.
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/misbahsrshaikh), [Instagram](https://instagram.com/iammiban), and check out my [Blog](https://www.renesasvnit.com/).
+- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/misbahsrshaikh), [Instagram](https://instagram.com/iammiban), and check out my [Blog](https://medium.com/@misbahsrshaikh).
