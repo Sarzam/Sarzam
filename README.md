@@ -1,5 +1,3 @@
-![logo](https://github.com/Sarzam/Sarzam/blob/main/github_banner.png)
-
 <h3 align="center">Hi 👋, I'm Misbah Shaikh</h3>
 
 <br>
